@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScaleText">
+        <attr name="topColor" format="color"/>
+        <attr name="bottomColor" format="color"/>
+    </declare-styleable>
+</resources>
